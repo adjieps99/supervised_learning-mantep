@@ -1,3 +1,5 @@
+Ini adalah file dari github.vom/WiraDKP yakni developer package jcopml dan tentor online saya. So shout out to mas Wira
+
 # Supervised Learning by J.COp
 Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan jcopml.
 
